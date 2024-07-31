@@ -1,0 +1,37 @@
+*{
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+  background-color: #FF0080;
+}
+
+header span{
+    color: white;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-item a:visited{
+    color: white;
+}
+
+.nav-item a:hover{
+    color:#FFFF80 ;
+}
+
+#nav-butoon{
+    background-color:#FFAA80 ;
+}
+
+.bi{
+    color: #FF0080;
+    font-size: 2em;
+}
+.img-proyecto1{
+    background-image: url('assets/clon-pinterest.PNG');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
