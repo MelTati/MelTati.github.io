@@ -30,15 +30,23 @@ header span{
     color: #FF0080;
     font-size: 2em;
 }
-.img-proyecto1{
-    background-image: url('assets/clon-pinterest.PNG');
-    background-size: contain;
-    background-repeat: no-repeat;
-}
 
 footer{
     background-color: #FFFF80;
     color: white;
+}
+
+.fondo{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+
+.color{
+    background-color: #FFFF80;
+}
+.style-control{
+    padding: 20px;
+    background-color: #FF0080;
+    border-radius: 50%;
 }
 
 footer p,a{
